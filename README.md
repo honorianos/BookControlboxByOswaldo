@@ -1,3 +1,8 @@
+#Instalacion
++clonar o fork
++en el terminal pod install y abrir el projecto
++compilar el proyecto :)
+
 
 #Vista Inicial
 + Solo usuarios logeados podran ingresar reviews
@@ -12,6 +17,11 @@
 + Resultado de busqueda
 
 [![Simulator-Screenshot-i-Phone-SE-3rd-generation-2024-07-29-at-22-26-35.png](https://i.postimg.cc/JzZ1yNPD/Simulator-Screenshot-i-Phone-SE-3rd-generation-2024-07-29-at-22-26-35.png)](https://postimg.cc/75Pvd2vw)
+
++ Usuario no registrado no puede agregar review
+
+[![Simulator-Screenshot-i-Phone-SE-3rd-generation-2024-07-29-at-22-41-22.png](https://i.postimg.cc/xCH3JTc3/Simulator-Screenshot-i-Phone-SE-3rd-generation-2024-07-29-at-22-41-22.png)](https://postimg.cc/mzLHK43P)
+
 
 
 #Paso 1: 
