@@ -1,0 +1,6 @@
+framework module Pods_BookControlbox {
+  umbrella header "Pods-BookControlbox-umbrella.h"
+
+  export *
+  module * { export * }
+}

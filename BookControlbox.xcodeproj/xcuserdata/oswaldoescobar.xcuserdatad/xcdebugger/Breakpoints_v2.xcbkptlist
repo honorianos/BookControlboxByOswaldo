@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "9FE5928D-165E-49F7-9A6D-1928A07A7EBE"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E09B7622-3C73-4DA5-9576-B9BE5853D5AB"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BookControlbox/Lista/ListReviews/53_Review1/Review1View.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "209"
+            endingLineNumber = "209"
+            landmarkName = "tableView(_:didSelectRowAt:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "E09B7622-3C73-4DA5-9576-B9BE5853D5AB - f2f37d05ca5854b6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BookControlbox.Review1View.tableView(_: __C.UITableView, didSelectRowAt: Foundation.IndexPath) -&gt; ()"
+                  moduleName = "BookControlbox"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/oswaldoescobar/Documents/Tecnico/BookControlbox/BookControlbox/Lista/ListReviews/53_Review1/Review1View.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "217"
+                  endingLineNumber = "217"
+                  offsetFromSymbolStart = "328">
+               </Location>
+               <Location
+                  uuid = "E09B7622-3C73-4DA5-9576-B9BE5853D5AB - f2f37d05ca5854b6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BookControlbox.Review1View.tableView(_: __C.UITableView, didSelectRowAt: Foundation.IndexPath) -&gt; ()"
+                  moduleName = "BookControlbox"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/oswaldoescobar/Documents/Tecnico/BookControlbox/BookControlbox/Lista/ListReviews/53_Review1/Review1View.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "217"
+                  endingLineNumber = "217"
+                  offsetFromSymbolStart = "320">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "92965B5D-D4B5-4602-8305-D8491B5FF1D4"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BookControlbox/Lista/ListBooks/Items1View.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "262"
+            endingLineNumber = "262"
+            landmarkName = "getSortName(name:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "92965B5D-D4B5-4602-8305-D8491B5FF1D4 - f2775d9b6770e7c6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BookControlbox.Items1View.getSortName(name: Swift.String) -&gt; ()"
+                  moduleName = "BookControlbox"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/oswaldoescobar/Documents/Tecnico/BookControlbox/BookControlbox/Lista/ListBooks/Items1View.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "206"
+                  endingLineNumber = "206"
+                  offsetFromSymbolStart = "220">
+               </Location>
+               <Location
+                  uuid = "92965B5D-D4B5-4602-8305-D8491B5FF1D4 - f2775d9b6770e0fe"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BookControlbox.Items1View.getSortName(name: Swift.String) -&gt; ()"
+                  moduleName = "BookControlbox"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/oswaldoescobar/Documents/Tecnico/BookControlbox/BookControlbox/Lista/ListBooks/Items1View.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "262"
+                  endingLineNumber = "262"
+                  offsetFromSymbolStart = "220">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A77EC45D-07DB-4E5E-A14B-A285C37EDDC5"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BookControlbox/Lista/ListBooks/Items1View.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "267"
+            endingLineNumber = "267"
+            landmarkName = "getFilterName(name:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "A77EC45D-07DB-4E5E-A14B-A285C37EDDC5 - b3940b55f6e1d529"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BookControlbox.Items1View.getFilterName(name: Swift.String) -&gt; ()"
+                  moduleName = "BookControlbox"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/oswaldoescobar/Documents/Tecnico/BookControlbox/BookControlbox/Lista/ListBooks/Items1View.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "211"
+                  endingLineNumber = "211"
+                  offsetFromSymbolStart = "220">
+               </Location>
+               <Location
+                  uuid = "A77EC45D-07DB-4E5E-A14B-A285C37EDDC5 - b3940b55f6e1dc61"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BookControlbox.Items1View.getFilterName(name: Swift.String) -&gt; ()"
+                  moduleName = "BookControlbox"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/oswaldoescobar/Documents/Tecnico/BookControlbox/BookControlbox/Lista/ListBooks/Items1View.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "267"
+                  endingLineNumber = "267"
+                  offsetFromSymbolStart = "220">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EF91FE48-FEA7-40DA-A390-FDC335F58EAC"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BookControlbox/Lista/ListBooks/Items1View.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "346"
+            endingLineNumber = "346"
+            landmarkName = "searchBar(_:textDidChange:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "EF91FE48-FEA7-40DA-A390-FDC335F58EAC - f5d1119e4494d72e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BookControlbox.Items1View.searchBar(_: __C.UISearchBar, textDidChange: Swift.String) -&gt; ()"
+                  moduleName = "BookControlbox"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/oswaldoescobar/Documents/Tecnico/BookControlbox/BookControlbox/Lista/ListBooks/Items1View.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "261"
+                  endingLineNumber = "261"
+                  offsetFromSymbolStart = "160">
+               </Location>
+               <Location
+                  uuid = "EF91FE48-FEA7-40DA-A390-FDC335F58EAC - f5d1119e4494d72e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BookControlbox.Items1View.searchBar(_: __C.UISearchBar, textDidChange: Swift.String) -&gt; ()"
+                  moduleName = "BookControlbox"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/oswaldoescobar/Documents/Tecnico/BookControlbox/BookControlbox/Lista/ListBooks/Items1View.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "261"
+                  endingLineNumber = "261"
+                  offsetFromSymbolStart = "144">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4121F3D0-1506-41EA-9BBD-940B7C8905BD"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BookControlbox/Lista/ListBooks/Items1View.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "374"
+            endingLineNumber = "374"
+            landmarkName = "searchBar(_:textDidChange:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "4121F3D0-1506-41EA-9BBD-940B7C8905BD - f5d1119e4494de41"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BookControlbox.Items1View.searchBar(_: __C.UISearchBar, textDidChange: Swift.String) -&gt; ()"
+                  moduleName = "BookControlbox"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/oswaldoescobar/Documents/Tecnico/BookControlbox/BookControlbox/Lista/ListBooks/Items1View.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "318"
+                  endingLineNumber = "318"
+                  offsetFromSymbolStart = "2920">
+               </Location>
+               <Location
+                  uuid = "4121F3D0-1506-41EA-9BBD-940B7C8905BD - f5d1119e4494a699"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BookControlbox.Items1View.searchBar(_: __C.UISearchBar, textDidChange: Swift.String) -&gt; ()"
+                  moduleName = "BookControlbox"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/oswaldoescobar/Documents/Tecnico/BookControlbox/BookControlbox/Lista/ListBooks/Items1View.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "374"
+                  endingLineNumber = "374"
+                  offsetFromSymbolStart = "2920">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

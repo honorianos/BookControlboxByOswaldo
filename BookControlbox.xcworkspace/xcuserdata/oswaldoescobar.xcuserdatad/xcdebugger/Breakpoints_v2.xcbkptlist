@@ -1,0 +1,598 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "045851A7-C459-44E5-AAEF-0A2842F8480F"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "29CA36EF-5D79-4183-B716-4C580944026D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BookControlbox/Login/Login1View.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "99"
+            endingLineNumber = "99"
+            landmarkName = "loginUser(email:password:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "29CA36EF-5D79-4183-B716-4C580944026D - a7b4fd2010a3f737"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BookControlbox.Login1View.loginUser(email: Swift.String, password: Swift.String, completion: (Swift.Optional&lt;BookControlbox.User&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "BookControlbox"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/oswaldoescobar/Documents/Tecnico/BookControlbox/BookControlbox/Login/Login1View.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "99"
+                  endingLineNumber = "99"
+                  offsetFromSymbolStart = "100">
+               </Location>
+               <Location
+                  uuid = "29CA36EF-5D79-4183-B716-4C580944026D - 2292db0581c6a343"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;__C.FIRAuthDataResult&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in BookControlbox.Login1View.loginUser(email: Swift.String, password: Swift.String, completion: (Swift.Optional&lt;BookControlbox.User&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "BookControlbox"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/oswaldoescobar/Documents/Tecnico/BookControlbox/BookControlbox/Login/Login1View.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "100"
+                  endingLineNumber = "100"
+                  offsetFromSymbolStart = "144">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "640634E4-89CC-4E95-B182-BAADB6C26A45"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BookControlbox/Detalle/50_Item3/Item3View.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "103"
+            endingLineNumber = "103"
+            landmarkName = "actionReview(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0431EA06-AAE7-40E9-BE37-642B9DA50AA1"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BookControlbox/Lista/ListBooks/Items1View.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "91"
+            endingLineNumber = "91"
+            landmarkName = "loadData()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "0431EA06-AAE7-40E9-BE37-642B9DA50AA1 - 4ba6efd6182d6d2f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;BookControlbox.Book&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in BookControlbox.Items1View.loadData() -&gt; ()"
+                  moduleName = "BookControlbox"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/oswaldoescobar/Documents/Tecnico/BookControlbox/BookControlbox/Lista/ListBooks/Items1View.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "91"
+                  endingLineNumber = "91"
+                  offsetFromSymbolStart = "256">
+               </Location>
+               <Location
+                  uuid = "0431EA06-AAE7-40E9-BE37-642B9DA50AA1 - 850263964a6c0e8a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.Array&lt;BookControlbox.Libros&gt;&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in BookControlbox.Items1View.loadData() -&gt; ()"
+                  moduleName = "BookControlbox"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/oswaldoescobar/Documents/Tecnico/BookControlbox/BookControlbox/Lista/ListBooks/Items1View.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "91"
+                  endingLineNumber = "91"
+                  offsetFromSymbolStart = "256">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6FB2E617-BED2-41D5-A61A-6530DBD6B728"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BookControlbox/Lista/ListBooks/Items1View.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "153"
+            endingLineNumber = "153"
+            landmarkName = "fetchBooksFromFirebaseDatabase(completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "6FB2E617-BED2-41D5-A61A-6530DBD6B728 - 63aeb812e18f3a28"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BookControlbox.Items1View.refreshCollectionView() -&gt; ()"
+                  moduleName = "BookControlbox"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/oswaldoescobar/Documents/Tecnico/BookControlbox/BookControlbox/Lista/ListBooks/Items1View.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "156"
+                  endingLineNumber = "156"
+                  offsetFromSymbolStart = "60">
+               </Location>
+               <Location
+                  uuid = "6FB2E617-BED2-41D5-A61A-6530DBD6B728 - 241f2f44c6632823"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 () -&gt; () in closure #1 (__C.FIRDataSnapshot) -&gt; () in BookControlbox.Items1View.fetchBooksFromFirebaseDatabase(completion: (Swift.Optional&lt;BookControlbox.Book&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "BookControlbox"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/oswaldoescobar/Documents/Tecnico/BookControlbox/BookControlbox/Lista/ListBooks/Items1View.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "153"
+                  endingLineNumber = "153"
+                  offsetFromSymbolStart = "68">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D0378022-F895-4DE3-A915-DC1C052BA2F5"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BookControlbox/Lista/ListBooks/Items1View.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "142"
+            endingLineNumber = "142"
+            landmarkName = "fetchBooksFromFirebaseDatabase(completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "D0378022-F895-4DE3-A915-DC1C052BA2F5 - abc53cb517dbd96"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (__C.FIRDataSnapshot) -&gt; () in closure #1 (__C.FIRDataSnapshot) -&gt; () in BookControlbox.Items1View.fetchBooksFromFirebaseDatabase(completion: (Swift.Optional&lt;BookControlbox.Book&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "BookControlbox"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/oswaldoescobar/Documents/Tecnico/BookControlbox/BookControlbox/Lista/ListBooks/Items1View.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "143"
+                  endingLineNumber = "143"
+                  offsetFromSymbolStart = "2604">
+               </Location>
+               <Location
+                  uuid = "D0378022-F895-4DE3-A915-DC1C052BA2F5 - abc53cb517dbdb7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (__C.FIRDataSnapshot) -&gt; () in closure #1 (__C.FIRDataSnapshot) -&gt; () in BookControlbox.Items1View.fetchBooksFromFirebaseDatabase(completion: (Swift.Optional&lt;BookControlbox.Book&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "BookControlbox"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/oswaldoescobar/Documents/Tecnico/BookControlbox/BookControlbox/Lista/ListBooks/Items1View.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "142"
+                  endingLineNumber = "142"
+                  offsetFromSymbolStart = "3276">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DD1DACBB-E125-456D-B188-CB4EEDEB7738"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BookControlbox/Lista/ListBooks/Items1View.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "129"
+            endingLineNumber = "129"
+            landmarkName = "fetchBooksFromFirebaseDatabase(completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "DD1DACBB-E125-456D-B188-CB4EEDEB7738 - abc53cb517db364"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (__C.FIRDataSnapshot) -&gt; () in closure #1 (__C.FIRDataSnapshot) -&gt; () in BookControlbox.Items1View.fetchBooksFromFirebaseDatabase(completion: (Swift.Optional&lt;BookControlbox.Book&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "BookControlbox"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/oswaldoescobar/Documents/Tecnico/BookControlbox/BookControlbox/Lista/ListBooks/Items1View.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "129"
+                  endingLineNumber = "129"
+                  offsetFromSymbolStart = "1568">
+               </Location>
+               <Location
+                  uuid = "DD1DACBB-E125-456D-B188-CB4EEDEB7738 - abc53cb517db364"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (__C.FIRDataSnapshot) -&gt; () in closure #1 (__C.FIRDataSnapshot) -&gt; () in BookControlbox.Items1View.fetchBooksFromFirebaseDatabase(completion: (Swift.Optional&lt;BookControlbox.Book&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "BookControlbox"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/oswaldoescobar/Documents/Tecnico/BookControlbox/BookControlbox/Lista/ListBooks/Items1View.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "129"
+                  endingLineNumber = "129"
+                  offsetFromSymbolStart = "2760">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "60AA8A7B-1F41-427D-89CF-918F2F389743"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BookControlbox/Lista/ListBooks/Items1View.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "309"
+            endingLineNumber = "309"
+            landmarkName = "collectionView(_:didSelectItemAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1448B628-E674-483F-A973-AC2F9FB5E198"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BookControlbox/Lista/ListReviews/53_Review1/Review1View.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "125"
+            endingLineNumber = "125"
+            landmarkName = "actionAddReview(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3071594C-DDB2-4F28-9896-6DBB4E632CD1"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BookControlbox/Lista/Review/55_AddReview1/AddReview1View.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "73"
+            endingLineNumber = "73"
+            landmarkName = "actionAdd(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "3071594C-DDB2-4F28-9896-6DBB4E632CD1 - 7dca686189a13a70"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BookControlbox.AddReview1View.actionAdd(__C.UIButton) -&gt; ()"
+                  moduleName = "BookControlbox"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/oswaldoescobar/Documents/Tecnico/BookControlbox/BookControlbox/Lista/Review/55_AddReview1/AddReview1View.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "67"
+                  endingLineNumber = "67"
+                  offsetFromSymbolStart = "464">
+               </Location>
+               <Location
+                  uuid = "3071594C-DDB2-4F28-9896-6DBB4E632CD1 - 7dca686189a13a57"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BookControlbox.AddReview1View.actionAdd(__C.UIButton) -&gt; ()"
+                  moduleName = "BookControlbox"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/oswaldoescobar/Documents/Tecnico/BookControlbox/BookControlbox/Lista/Review/55_AddReview1/AddReview1View.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "68"
+                  endingLineNumber = "68"
+                  offsetFromSymbolStart = "1416">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3DC501E6-235F-495B-BA41-328C1ED5DDCE"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BookControlbox/Lista/ListReviews/53_Review1/Review1View.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "56"
+            endingLineNumber = "56"
+            landmarkName = "viewWillAppear(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FDB7B86C-5B38-41C4-8FFF-01A1862AFDC0"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BookControlbox/Lista/ListReviews/53_Review1/Review1View.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "215"
+            endingLineNumber = "215"
+            landmarkName = "callUpdate()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E65DE9ED-9C59-45C9-88B6-E52C1C91360E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BookControlbox/Lista/ListReviews/53_Review1/Review1View.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "64"
+            endingLineNumber = "64"
+            landmarkName = "loadData()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "E65DE9ED-9C59-45C9-88B6-E52C1C91360E - 5b279710761fb234"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BookControlbox.Review1View.loadData() -&gt; ()"
+                  moduleName = "BookControlbox"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/oswaldoescobar/Documents/Tecnico/BookControlbox/BookControlbox/Lista/ListReviews/53_Review1/Review1View.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "64"
+                  endingLineNumber = "64"
+                  offsetFromSymbolStart = "288">
+               </Location>
+               <Location
+                  uuid = "E65DE9ED-9C59-45C9-88B6-E52C1C91360E - 5b279710761fb234"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BookControlbox.Review1View.loadData() -&gt; ()"
+                  moduleName = "BookControlbox"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/oswaldoescobar/Documents/Tecnico/BookControlbox/BookControlbox/Lista/ListReviews/53_Review1/Review1View.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "64"
+                  endingLineNumber = "64"
+                  offsetFromSymbolStart = "308">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D4FC85E7-5764-43AD-9D81-9117BC5741A1"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BookControlbox/Lista/ListReviews/53_Review1/Review1View.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "80"
+            endingLineNumber = "80"
+            landmarkName = "loadData()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "D4FC85E7-5764-43AD-9D81-9117BC5741A1 - 258e1475ccfcadb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Swift.Error) -&gt; () in BookControlbox.Review1View.loadData() -&gt; ()"
+                  moduleName = "BookControlbox"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/oswaldoescobar/Documents/Tecnico/BookControlbox/BookControlbox/Lista/ListReviews/53_Review1/Review1View.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "80"
+                  endingLineNumber = "80"
+                  offsetFromSymbolStart = "100">
+               </Location>
+               <Location
+                  uuid = "D4FC85E7-5764-43AD-9D81-9117BC5741A1 - 1ce56abb4e82a53f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (__C.FIRDataSnapshot) -&gt; () in BookControlbox.Review1View.loadData() -&gt; ()"
+                  moduleName = "BookControlbox"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/oswaldoescobar/Documents/Tecnico/BookControlbox/BookControlbox/Lista/ListReviews/53_Review1/Review1View.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "80"
+                  endingLineNumber = "80"
+                  offsetFromSymbolStart = "664">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4EC9015F-5368-4555-BA91-D25DFEF96837"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BookControlbox/Lista/ListReviews/53_Review1/Review1View.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "100"
+            endingLineNumber = "100"
+            landmarkName = "loadData()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "4EC9015F-5368-4555-BA91-D25DFEF96837 - 5b279710761f8e98"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BookControlbox.Review1View.loadData() -&gt; ()"
+                  moduleName = "BookControlbox"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/oswaldoescobar/Documents/Tecnico/BookControlbox/BookControlbox/Lista/ListReviews/53_Review1/Review1View.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "100"
+                  endingLineNumber = "100"
+                  offsetFromSymbolStart = "3676">
+               </Location>
+               <Location
+                  uuid = "4EC9015F-5368-4555-BA91-D25DFEF96837 - 5b279710761f8e98"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BookControlbox.Review1View.loadData() -&gt; ()"
+                  moduleName = "BookControlbox"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/oswaldoescobar/Documents/Tecnico/BookControlbox/BookControlbox/Lista/ListReviews/53_Review1/Review1View.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "100"
+                  endingLineNumber = "100"
+                  offsetFromSymbolStart = "836">
+               </Location>
+               <Location
+                  uuid = "4EC9015F-5368-4555-BA91-D25DFEF96837 - 5b279710761f8e98"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BookControlbox.Review1View.loadData() -&gt; ()"
+                  moduleName = "BookControlbox"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/oswaldoescobar/Documents/Tecnico/BookControlbox/BookControlbox/Lista/ListReviews/53_Review1/Review1View.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "100"
+                  endingLineNumber = "100"
+                  offsetFromSymbolStart = "940">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "605A9B02-0A8C-48BA-8084-D79C7FEA3FE4"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BookControlbox/Lista/ListReviews/53_Review1/Review1View.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "97"
+            endingLineNumber = "97"
+            landmarkName = "loadData()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "605A9B02-0A8C-48BA-8084-D79C7FEA3FE4 - 1ce56abb4e82a571"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (__C.FIRDataSnapshot) -&gt; () in BookControlbox.Review1View.loadData() -&gt; ()"
+                  moduleName = "BookControlbox"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/oswaldoescobar/Documents/Tecnico/BookControlbox/BookControlbox/Lista/ListReviews/53_Review1/Review1View.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "82"
+                  endingLineNumber = "82"
+                  offsetFromSymbolStart = "744">
+               </Location>
+               <Location
+                  uuid = "605A9B02-0A8C-48BA-8084-D79C7FEA3FE4 - 5b279710761f8e75"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BookControlbox.Review1View.loadData() -&gt; ()"
+                  moduleName = "BookControlbox"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/oswaldoescobar/Documents/Tecnico/BookControlbox/BookControlbox/Lista/ListReviews/53_Review1/Review1View.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "97"
+                  endingLineNumber = "97"
+                  offsetFromSymbolStart = "3192">
+               </Location>
+               <Location
+                  uuid = "605A9B02-0A8C-48BA-8084-D79C7FEA3FE4 - 1ce56abb4e82a74e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (__C.FIRDataSnapshot) -&gt; () in BookControlbox.Review1View.loadData() -&gt; ()"
+                  moduleName = "BookControlbox"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/oswaldoescobar/Documents/Tecnico/BookControlbox/BookControlbox/Lista/ListReviews/53_Review1/Review1View.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "97"
+                  endingLineNumber = "97"
+                  offsetFromSymbolStart = "4428">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
