@@ -1,7 +1,11 @@
 #Instalacion
+
 +clonar o fork
+
 +en el terminal pod install y abrir el projecto
+
 +compilar el proyecto :)
+
 
 
 #Vista Inicial
